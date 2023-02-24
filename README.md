@@ -1,2 +1,5 @@
 # Python-for-Data-Science
-Labs completed
+Includes:
+ - completed labs
+ - notes from videos
+ - notes from labs
